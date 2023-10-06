@@ -1,0 +1,127 @@
+/* .hero{
+    height:150px;
+    width:100%;
+    font-family: 'Poppins';
+}
+.logo{
+    color:black;
+    font-size:28px;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+.logo span{
+    color:white;
+}
+nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 10%;
+    padding-right:10%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding:10px 20px;
+}
+nav ul li a{
+    color:black;
+    text-decoration:none;
+    font-weight: bold;
+   font-size:20px;
+}
+nav ul li a:hover{
+    color:white;
+    transition:0.3s;
+}
+button{
+    border:none;
+    background: #ea1538;
+    padding:12px 30px;
+    border-radius:30px;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    transition:0.4s;
+}
+button:hover{
+    transform:scale(1.3);
+    cursor:pointer;
+} */
+.hero{
+    height:150px;
+    width:100%;
+}
+.logo img{
+    color:#112C33;
+    font-size:29px;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+.logo span{
+    color:#E9E4F0;
+}
+.hero nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding-top: 27px;
+    padding-left: 7%;
+    padding-right:7%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding:10px 20px;
+    color:#E9E4F0;
+}
+nav ul li a{
+    color:#E9E4F0;
+    text-decoration:none !important;
+    font-weight: bold;
+   /* font-size:20px;*/
+}
+nav ul li a:hover{
+    color:#2980b9;
+    transition:0.3s;
+}
+button{
+    border:none;
+    background: #2980b9;
+    padding:12px 30px;
+    border-radius:30px;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    transition:0.4s;
+}
+button:hover{
+    transform:scale(1.3);
+    cursor:pointer;
+}
+
+.welcome{
+  /* width:100%; */
+  font-size: 3.2rem;
+}
+
+
+ body{
+    /* background: url(45579.png);
+   background-color: #D9AFD9;
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);  */
+    /* background-color:#EDBEC8; */
+    /* background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%); */
+    /* font-family: "Poppins", sans-serif; */
+    /* background-image: url("bg1.jpg"); */
+    /* background: #2980b9;  
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  */
+    background: linear-gradient(to left, #2c3e50, #2980b9); /
+
+    
+  
+} 
